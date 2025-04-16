@@ -78,11 +78,11 @@ html {
 }
 
 body {
-    font-family: var(--font-family-base);
+    font-family: 'Arial', sans-serif;
     font-size: var(--font-size-md);
     line-height: 1.6;
     color: var(--text-dark);
-    background-color: var(--text-white);
+    background: linear-gradient(to right, #ff7cbf, #9b59b6);
 }
 
 img {
